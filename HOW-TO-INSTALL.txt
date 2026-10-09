@@ -1,0 +1,6 @@
+My Finance - install on iPhone as an app
+1. Put ALL these files on a free web host (for example GitHub Pages).
+2. Open the web address in Safari on the iPhone.
+3. Tap Share, then Add to Home Screen, then Add.
+4. Open it from the home screen icon. Then go to Accounts and use Import to bring your data in.
+The files contain no personal data.
